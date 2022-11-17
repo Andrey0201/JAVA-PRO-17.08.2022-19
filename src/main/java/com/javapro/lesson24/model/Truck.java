@@ -1,6 +1,6 @@
-package javapro.lesson24.model;
+package com.javapro.lesson24.model;
 
-import javapro.lesson24.servise.Transport;
+import com.javapro.lesson24.servise.Transport;
 
 public class Truck implements Transport {
     @Override

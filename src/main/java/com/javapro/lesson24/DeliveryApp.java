@@ -1,11 +1,11 @@
-package javapro.lesson24;
+package com.javapro.lesson24;
 
-import javapro.lesson24.factory.ShipFactory;
-import javapro.lesson24.factory.TrainFactory;
-import javapro.lesson24.factory.TruckFactory;
-import javapro.lesson24.servise.Transport;
-import javapro.lesson24.servise.TransportFactory;
-import javapro.lesson24.servise.TransportType;
+import com.javapro.lesson24.factory.ShipFactory;
+import com.javapro.lesson24.factory.TrainFactory;
+import com.javapro.lesson24.factory.TruckFactory;
+import com.javapro.lesson24.servise.Transport;
+import com.javapro.lesson24.servise.TransportFactory;
+import com.javapro.lesson24.servise.TransportType;
 import lombok.NonNull;
 
 public class DeliveryApp {
